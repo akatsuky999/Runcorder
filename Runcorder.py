@@ -6,8 +6,9 @@ It initializes the Tkinter root window, hides it, and then launches the AuthWind
 This window serves as the starting point for user management, including creating, loading, and deleting users.
 
 这是跑步训练管理系统的主入口文件。
-它初始化 Tkinter 根窗口并将其隐藏，然后启动用户管理窗口（AuthWindow）。
+它初始化根窗口并将其隐藏，然后启动用户管理窗口。
 该窗口是用户管理的起始点，包括创建、加载和删除用户等操作。
+
 '''
 
 import tkinter as tk
