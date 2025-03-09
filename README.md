@@ -44,3 +44,29 @@ A program used to record daily running records for runners, marathon enthusiasts
 - **Visualization**: Matplotlib
 - **Table Generation**: Tabulate
 - **Architecture**: MVC Layered Design
+
+---
+### 📂 Project Structure
+
+```plaintext
+Runcorder_scode/
+├── Runcorder.py                # Main entry point
+├── gui/
+│   ├── auth_window.py          # User authentication
+│   ├── main_window.py          # Main interface
+│   ├── record_window.py        # Training log form
+│   ├── stats_window.py         # Statistics dashboard
+│   ├── training_mode_window.py # Training mode selection
+│   └── modify_window.py        # Record management
+├── core/
+│   ├── runner.py               # User data model
+│   └── database_handler.py     # Database operations
+├── utils/
+│   ├── Interaction.py          # Business logic
+│   ├── validator.py            # Data validation
+│   ├── time_parse.py           # Time parsing and formatting
+│   ├── plotter.py              # Visualization engine
+│   └── resource_utils.py       # Resource path management
+├── database/
+│   └── users/                  # User data storage
+└── requirements.txt            # Dependencies list
