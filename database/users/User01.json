@@ -1,0 +1,17 @@
+{
+    "training_records": {
+        "2025-04-13": {
+            "distance": 5.0,
+            "pace": 6.533333333333333,
+            "assessment": "good",
+            "morning_run": false
+        },
+        "2025-04-14": {
+            "distance": 6.0,
+            "pace": 6.733333333333333,
+            "assessment": "good",
+            "morning_run": false
+        }
+    },
+    "training_modes": {}
+}

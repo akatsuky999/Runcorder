@@ -1,0 +1,58 @@
+{
+    "runner_info": {
+        "name": "\u5f20\u8bed\u829d"
+    },
+    "training_records": {
+        "2025-02-24": {
+            "distance": 3.03,
+            "pace": 6.83,
+            "assessment": "The first run was very tiring.",
+            "morning_run": true
+        },
+        "2025-02-26": {
+            "distance": 3.08,
+            "pace": 7.21,
+            "assessment": "It's better after adjusting the pace",
+            "morning_run": true
+        },
+        "2025-02-27": {
+            "distance": 3.05,
+            "pace": 7.13,
+            "assessment": "Not tired after eating",
+            "morning_run": false
+        },
+        "2025-03-02": {
+            "distance": 3.1,
+            "pace": 7.31,
+            "assessment": "Very tired, and the shoes are uncomfortable",
+            "morning_run": true
+        },
+        "2025-03-04": {
+            "distance": 3.02,
+            "pace": 6.833333333333333,
+            "assessment": "Very good condition",
+            "morning_run": false
+        },
+        "2025-03-06": {
+            "distance": 3.55,
+            "pace": 7.3,
+            "assessment": "very tired",
+            "morning_run": true
+        },
+        "2025-03-07": {
+            "distance": 2.57,
+            "pace": 6.633333333333333,
+            "assessment": "Didn't run much because meetings",
+            "morning_run": false
+        }
+    },
+    "training_modes": {
+        "2025-02-24": "\u6709\u6c27\u8dd1",
+        "2025-02-26": "\u6709\u6c27\u8dd1",
+        "2025-02-27": "\u6709\u6c27\u8dd1",
+        "2025-03-02": "\ud83c\udff8&\u6709\u6c27\u8dd1",
+        "2025-03-04": "\u6709\u6c27\u8dd1",
+        "2025-03-06": "\u6709\u6c27\u8dd1",
+        "2025-03-07": "\ud83c\udff8&\u6709\u6c27\u8dd1"
+    }
+}
